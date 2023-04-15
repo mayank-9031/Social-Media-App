@@ -5,9 +5,11 @@ export default function Register() {
     <div className="login">
       <div className="loginWrapper">
         <div className="loginLeft">
-          <h3 className="loginLogo">Lamasocial</h3>
+          <h3 className="loginLogo">Connectify</h3>
           <p className="loginDesc">
-            Connect with friends and the world around you on Lamasocial.
+            Connect with friends and the world
+            <br />
+            around you on Connectify.
           </p>
         </div>
         <div className="loginRight">
@@ -17,9 +19,7 @@ export default function Register() {
             <input placeholder="Password" className="loginInput" />
             <input placeholder="Password Again" className="loginInput" />
             <button className="loginButton">Sign Up</button>
-            <button className="loginRegisterButton">
-              Register into Account
-            </button>
+            <button className="loginRegisterButton">Already A User</button>
           </div>
         </div>
       </div>
