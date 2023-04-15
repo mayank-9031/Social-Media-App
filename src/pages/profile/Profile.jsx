@@ -14,12 +14,12 @@ export default function Profile() {
           <div className="profileRightTop">
             <div className="profileCover">
               <img
-                src="assets/post/3.jpeg"
-                alt=""
+                src="assets/post/3.jpg"
+                alt="cover"
                 className="profileCoverImg"
               />
               <img
-                src="assets/person/7.jpeg"
+                src="assets/person/1.jpg"
                 alt=""
                 className="profileUserImg"
               />
